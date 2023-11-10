@@ -224,7 +224,7 @@ export const mealData = [
       id: 9,
       name: 'chicken',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chicken_logo_ahl2ca.png'
+        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chiken_logo_ahl2ca.png'
     },
     {
       id: 10,
